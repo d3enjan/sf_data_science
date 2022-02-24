@@ -29,4 +29,14 @@
 
 ****
 :arrow_up:[к оглавлению](https://github.com/d3enjan/sf_data_science/tree/main/project_game#оглавление)
+### Этапы работы над проектом
+
+***
+:arrow_up:[к оглавлению](https://github.com/d3enjan/sf_data_science/tree/main/project_game#оглавление)
+
+# Результаты
+
+ ***
+ :arrow_up:[к оглавлению](https://github.com/d3enjan/sf_data_science/tree/main/project_game#оглавление)
+
 
