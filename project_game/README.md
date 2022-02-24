@@ -4,9 +4,9 @@
 1. [Описание проекта](https://github.com/d3enjan/sf_data_science/tree/main/project_game#Описание-проекта)
 2. [Какой кейс решаем?](https://github.com/d3enjan/sf_data_science/tree/main/project_game#Какой-кейс-решаем)
 3. [Краткая информация о данных](https://github.com/d3enjan/sf_data_science/tree/main/project_game#Краткая-информация-о-данных)
-4. Этапы работы над проектом
-5. Результаты
-6. Выводы
+4. [Этапы работы над проектом](https://github.com/d3enjan/sf_data_science/tree/main/project_game#этапы-работы-над-проектом)
+5. [Результаты](https://github.com/d3enjan/sf_data_science/tree/main/project_game#результаты)
+6. [Выводы](https://github.com/d3enjan/sf_data_science/tree/main/project_game#выводы)
 
 
 
