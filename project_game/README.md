@@ -1,7 +1,7 @@
 # Проект game. Угадай число
 
 ## Оглавление
-1. [Описание проекта](https://github.com/d3enjan/sf_data_science/tree/main/project_game#Описание проекта)
+1. [Описание проекта](https://github.com/d3enjan/sf_data_science/tree/main/project_game#Описание-проекта)
 2. Какой кейс решаем?
 3. Краткая информация о данных
 4. Этапы работы над проектом
