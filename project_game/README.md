@@ -26,25 +26,25 @@
 Учимся писать хороший код на python
 
 ### Краткая информация о данных
-****
+....
 
 :arrow_up:[к оглавлению](https://github.com/d3enjan/sf_data_science/tree/main/project_game#оглавление)
 
 
 ### Этапы работы над проектом
 
-***
+....
 :arrow_up:[к оглавлению](https://github.com/d3enjan/sf_data_science/tree/main/project_game#оглавление)
 
 # Результаты
-- Ал
+- Програма успешно находит нужное число за менее чем 20 попыток.
 
- ***
+ ....
  :arrow_up:[к оглавлению](https://github.com/d3enjan/sf_data_science/tree/main/project_game#оглавление)
 
  # Выводы
 
- ***
+ ....
  :arrow_up:[к оглавлению](https://github.com/d3enjan/sf_data_science/tree/main/project_game#оглавление)
 
 
