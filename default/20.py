@@ -24,4 +24,4 @@ def optimal_predict(number: int = 1) -> int:
             print(f"Компьютер угадал число за {count} попыток. Это число {number}")
             break #конец игры выход из цикла
     return count
-optimal_predict(5)
+optimal_predict()
