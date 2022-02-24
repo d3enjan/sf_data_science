@@ -39,4 +39,11 @@
  ***
  :arrow_up:[к оглавлению](https://github.com/d3enjan/sf_data_science/tree/main/project_game#оглавление)
 
+ # Выводы
+
+ ***
+ :arrow_up:[к оглавлению](https://github.com/d3enjan/sf_data_science/tree/main/project_game#оглавление)
+
+
+
 
